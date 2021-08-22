@@ -17,14 +17,13 @@ The motivation behind this project is to learn and demonstrate HTML, CSS and Jav
 
 
 ### Website Screen Shots: ###
-![image](./screenshots/screenshot-1.png)
-![image](./screenshots/screenshot-2.png)
-![image](./screenshots/screenshot-3.png)
-![image](./screenshots/screenshot-4.png)
-![image](./screenshots/screenshot-5.png)
-![image](./screenshots/screenshot-6.png)
-![image](./screenshots/screenshot-7.png)
-
+![image](Screenshots/Screenshot-1.png)
+![image](Screenshots/Screenshot-2.png)
+![image](Screenshots/Screenshot-3.png)
+![image](Screenshots/Screenshot-4.png)
+![image](Screenshots/Screenshot-5.png)
+![image](Screenshots/Screenshot-6.png)
+![image](Screenshots/Screenshot-7.png)
 
 ### Website Contents: ###
 1. It generates new, secure password when user clicks the button to generate a password.
